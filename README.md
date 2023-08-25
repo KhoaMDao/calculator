@@ -31,5 +31,5 @@ This project is a simple, yet elegant web-based calculator. Built with pure HTML
     - Button Actions: Number, operator, and decimal inputs update the display accordingly.
     - Reset: Clear button resets the calculator.
  
-⭐ Support the project by giving it a star!
+# ⭐ Support the project by giving it a star!
 
